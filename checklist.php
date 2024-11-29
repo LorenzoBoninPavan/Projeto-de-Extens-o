@@ -152,7 +152,7 @@
                     alertBox.style.display = 'block';
                     setTimeout(() => {
                         alertBox.style.display = 'none';
-                        window.location.href = 'index.php';
+                        window.location.href = 'index.html';
                     }, 3000);
                 }
             </script>
